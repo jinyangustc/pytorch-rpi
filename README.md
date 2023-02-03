@@ -1,4 +1,4 @@
-# Pytorch 1.31.1 for Raspberry Pi 3B+
+# Pytorch 1.13.1 for Raspberry Pi 3B+
 
 On Raspberry Pi:
 
